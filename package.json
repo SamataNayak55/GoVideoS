@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "//https://github.com/SamataNayak55/GoVideoS.git"
+  },
+  "license": "ISC",
+  "author": "samata nayak",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "prod": "pm2 index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "http-status": "^2.1.0",
+    "mongodb": "^6.20.0",
+    "mongoose": "^8.18.2",
+    "nodemon": "^3.1.10",
+    "socketio": "^1.0.0"
+  }
+}
