@@ -1,0 +1,10 @@
+[33mbd9f548[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: rebase (finish): returning to refs/heads/main
+[33mbd9f548[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{1}: rebase (continue): backend
+[33mf0cb296[m HEAD@{2}: rebase (continue): first commit
+[33m639b11d[m HEAD@{3}: pull origin main --rebase (start): checkout 639b11d16c3cc01225a19286bf941e761955ffb0
+[33m95a588e[m HEAD@{4}: commit: backend
+[33m349b8d8[m HEAD@{5}: commit: first commit
+[33m92d5403[m HEAD@{6}: commit: created db models and authentication routes
+[33m63936e4[m HEAD@{7}: Branch: renamed refs/heads/main to refs/heads/main
+[33m63936e4[m HEAD@{9}: Branch: renamed refs/heads/main to refs/heads/main
+[33m63936e4[m HEAD@{11}: commit (initial): set up backend
